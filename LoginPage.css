@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    border: transparent;
+}
+
+.container {
+    width: 500px;
+    padding: 362px 0px 328px 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: purple;
+
+}
+
+.input-container {
+    display: flex;
+    gap: 0;
+    margin-left: 0;
+
+}
+
+.select {
+    width: 150px;
+    height: 50px;
+
+}
+
+input {
+    width: 500px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.btn {
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+    width: 385px;
+    height: 50px;
+    border-radius: 10px;
+}

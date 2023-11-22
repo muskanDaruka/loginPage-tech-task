@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin-left: 130px;
+    border: transparent;
+}
+
+
+h1 {
+    color: purple;
+
+}
+
+
+
+.input1 {
+    width: 50px;
+    font-size: 20px;
+    height: 60px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.btn1 {
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+    width: 385px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.btn2 .btn3 {
+    font-size: 30px;
+    text-align: center;
+}
